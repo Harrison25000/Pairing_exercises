@@ -1,4 +1,4 @@
-#Challenge 4: Errors are good
+# Challenge 4: Errors are good
 
 ```
 2.6.0 :001 > docking_station = DockingStation.new
