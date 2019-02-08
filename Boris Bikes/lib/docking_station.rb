@@ -18,7 +18,7 @@ attr_reader :capacity
 
   def dock(bike)
     fail 'Docking station full' if full?
-    bike.report_broken == true || false
+    # bike.report_broken == true || false
     @bikes << bike
   end
 
